@@ -6,7 +6,7 @@
   "permissions": ["tabs", "nativeMessaging", "storage"],
   "host_permissions": ["*://*.twitch.tv/*"],
   "icons": {
-    "256": "square_logo_2.png"
+    "256": "icon.png"
   },
   "manifest_version": 3,
   "background": {
@@ -22,4 +22,5 @@
       "js": ["inject.js"]
     }
   ]
+
 }
