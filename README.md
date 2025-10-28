@@ -16,4 +16,4 @@ Notes:
 
 ### Using the extension
 
-Once you added the extension from the Chrome Web Extensions Store, make sure to have Chatterino running and press the extension on the top right corner and make sure it says "
+Once you added the extension from the Chrome Web Extensions Store, make sure to have Chatterino running and press the extension on the top right corner and make sure it says "Replace Twitch chat" or similar to that message. 
