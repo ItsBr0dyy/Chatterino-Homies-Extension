@@ -1,3 +1,6 @@
+![ ](icon.png)
+<u></u>
+
 # Chatterino Homies Extension
 
 **Note that you will need Chatterino Homies to run this extension on Chrome or any browser using Chromium.**
