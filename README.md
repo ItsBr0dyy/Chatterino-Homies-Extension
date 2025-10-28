@@ -3,7 +3,7 @@
 
 # Chatterino Homies Extension
 
-This is a fork of Chatterino Extension. 
+This is a fork of the official Chatterino Extension. 
 
 **Note that you will need Chatterino Homies to run this extension on Chrome or any browser using Chromium.**
 
