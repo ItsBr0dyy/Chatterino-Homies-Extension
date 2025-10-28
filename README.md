@@ -3,6 +3,8 @@
 
 # Chatterino Homies Extension
 
+This is a fork of Chatterino Extension. 
+
 **Note that you will need Chatterino Homies to run this extension on Chrome or any browser using Chromium.**
 
 This extensions is used to display Chatterino Homies on your native Twitch chat. This extension or application can't be used for Kick, YouTube, etc. 
