@@ -29,4 +29,4 @@ Once you added the extension from the Chrome Web Extensions Store, make sure to 
 
 ### Discord
 
-If you don't have a GitHub account and want to report issues or want to join the community you can join the official Homies Discord using the link here: <https://discord.gg/ZPxUUzDjbM>.
+If you don't have a GitHub account and want to report issues or want to join the community you can join the official Homies Discord using the link here: [Chatterino Homies Discord](https://discord.gg/ZPxUUzDjbM)
