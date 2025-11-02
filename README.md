@@ -13,7 +13,7 @@ This extensions is used to display Chatterino Homies on your native Twitch chat.
 
 ### Chatterino Homies Native Host Extension
 
-Add the [Chatterino Homies Native Host Extension](https://chromewebstore.google.com/detailchatterino-homies-native/jeoakiicjlpidgckakfalhikagijdfik) to your Chrome browser. 
+Add the [Chatterino Homies Native Host Extension]([https://chromewebstore.google.com/detailchatterino-homies-native/jeoakiicjlpidgckakfalhikagijdfik](https://chromewebstore.google.com/detail/chatterino-homies-native/jeoakiicjlpidgckakfalhikagijdfik)) to your Chrome browser. 
 
 ### Chatterino Homies Installation
 
