@@ -15,9 +15,7 @@
     <img src="https://img.shields.io/chrome-web-store/rating/jeoakiicjlpidgckakfalhikagijdfik?style=for-the-badge">
   </a>
 
-# Chatterino Homies Extension
-
-This is a fork of the official Chatterino Extension. 
+This is a **fork** of the official Chatterino Extension. 
 
 **Note that you will need Chatterino Homies to run this extension on Chrome or any browser using Chromium.**
 
