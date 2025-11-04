@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a aria-label="Chrome web store stable" href="https://chrome.google.com/webstore/detail/7tv/ammjkodgmmoknidbanneddgankgfejfh">
+  <a aria-label="Chrome web store stable" href="https://chromewebstore.google.com/detail/chatterino-homies-native/jeoakiicjlpidgckakfalhikagijdfik">
     <img src="https://img.shields.io/chrome-web-store/v/jeoakiicjlpidgckakfalhikagijdfik?label=Chrome%20Web%20Store%20Stable&style=for-the-badge">
   </a>
   <a aria-label="Rating" href="https://chromewebstore.google.com/detail/chatterino-homies-native/jeoakiicjlpidgckakfalhikagijdfik/reviews">
