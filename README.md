@@ -1,5 +1,19 @@
-![ ](icon.png)
-<u></u>
+<p align="center">
+  <a href="https:/chatterinohomies.com">
+    <picture>
+      <img src="public/icon/icon-128.png" height="128">
+    </picture>
+    <h1 align="center">7TV Web Extension</h1>
+  </a>
+</p>
+
+<p align="center">
+  <a aria-label="Chrome web store stable" href="https://chrome.google.com/webstore/detail/7tv/ammjkodgmmoknidbanneddgankgfejfh">
+    <img src="https://img.shields.io/chrome-web-store/v/jeoakiicjlpidgckakfalhikagijdfik?label=Chrome%20Web%20Store%20Stable&style=for-the-badge">
+  </a>
+  <a aria-label="Rating" href="https://chromewebstore.google.com/detail/chatterino-homies-native/jeoakiicjlpidgckakfalhikagijdfik/reviews">
+    <img src="https://img.shields.io/chrome-web-store/rating/jeoakiicjlpidgckakfalhikagijdfik?style=for-the-badge">
+  </a>
 
 # Chatterino Homies Extension
 
