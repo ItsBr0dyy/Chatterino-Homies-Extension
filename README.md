@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https:/chatterinohomies.com">
     <picture>
-      <img src="public/icon/icon-128.png" height="128">
+      <img src="icon.png" height="128">
     </picture>
-    <h1 align="center">7TV Web Extension</h1>
+    <h1 align="center">Chatterino Homies Extension</h1>
   </a>
 </p>
 
